@@ -42,6 +42,15 @@ nav ul li {
     padding: 5px;
     background-color: grey;
     border-radius: 30px;
+    
+}
+/*ANIMACION HOVER A MENU NAVEGACION*/
+.navegacion nav ul li a:hover{
+    color: orangered;
+    transform: scale(1.1);
+    background: grey;
+    border: 2px solid grey;
+
 }
 
 body {
